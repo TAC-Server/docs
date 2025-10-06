@@ -149,7 +149,6 @@ _绝对不是我不想重新写一份中文教程_
 *   [file/v10qraftyfied_-_TERRALITH.zip (world)]
 
 欲了解其中内容，可以自行搜索。
-
 ## 合成表
 <div class="grid cards" markdown>
 
