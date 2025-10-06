@@ -77,7 +77,7 @@ _绝对不是我不想重新写一份中文教程_
 ## 附魔
 [NeoEnchant+ Wiki（自建）](../neoenchants/enchantment/){ .md-button }
 
-<!-- ### 最大等级提升
+### 最大等级提升
 
 | Enchantment |  New Max Level | Detail |
 | --- | --- | --- |
@@ -122,7 +122,7 @@ _绝对不是我不想重新写一份中文教程_
 
 /// caption
 提升后的最大等级（未翻译）
-/// -->
+///
 
 ## 数据包
 服务器数据包列表：
