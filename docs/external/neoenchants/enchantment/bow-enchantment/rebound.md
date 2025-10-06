@@ -1,75 +1,76 @@
 # Rebound
-### Effects
-*   Makes arrows bounce off surfaces
-*   Arrow maintains effects between bounces
-*   Number of bounces increases with enchantment level
+### 效果
+*   令箭矢在表面间反弹
+*   箭矢在弹跳间保留所有附加效果
+*   可弹跳次数随附魔等级提升
 
 ![](/images/voxel/enchantment/bow-enchantment/image_1756618446043_529.png)
 
 * * *
 
-### Availability
+### 获取方式
 
-This section tells you how the enchantment is obtained, as well as other more specific information.
+本节说明附魔的获取渠道以及补充信息。
 
-Legend: Explanations of each box.[](#legend-explanations-of-each-box)
+图例：各指示格的含义。[](#legend-explanations-of-each-box)
 
 * * *
 
-_**Enchanting table:**_ If the enchantment is obtainable from the enchantment table
+_**附魔台：**_ 可通过附魔台获得。
 
-_**Mob Equipement:**_ Monsters such as zombies or skeleton can appear naturally with this enchantment on their equipment.
+_**生物装备：**_ 僵尸、骷髅等生物可能自带该附魔。
 
-_**Loot in Chest:**_ These enchantments can be found on naturally generated equipment from loot tables.
+_**箱子战利品：**_ 可在战利品表生成的装备上找到。
 
-_**Tradeable:**_ These enchantments can be sold by villagers.
+_**可交易：**_ 村民可能出售该附魔书。
 
-_**Tradeable Equipement:**_ These enchantments can be found on equipment sold by villagers.
+_**可交易装备：**_ 村民售卖的装备可能带有该附魔。
 
-_**The Price is Doubled:**_ These enchantments get charged twice as much in villager trades.
+_**价格翻倍：**_ 在村民交易中，售价会翻倍。
 
 ![](/images/voxel/enchantment/bow-enchantment/image_1756618446043_681.png)
 
-Darker boxes represent true, lighter boxes false
+深色方格代表“是”，浅色方格代表“否”。
 
 * * *
 
-### Compatible Items
-Explanation Primary / Supported (Technical)[](#explanation-primary-supported-technical)
+### 可附魔物品
+主要 / 支持项说明（技术向）[](#explanation-primary-supported-technical)
 
-**Primary Items (Enchanting Table):** Items for which this enchantment appears in an [enchanting table](https://minecraft.wiki/w/Enchanting_table).
+**主要物品（附魔台）：** 可在[附魔台](https://minecraft.wiki/w/Enchanting_table)上随机出现该附魔的物品。
 
-**Supported Items (Anvil):** Items on which this enchantment can be applied using an anvil or using the [`/enchant`](https://minecraft.wiki/w/Commands/enchant) command.
+**支持物品（铁砧）：** 可通过铁砧或[`/enchant`](https://minecraft.wiki/w/Commands/enchant)指令附加该附魔的物品。
 
 !!! info ""
-    If Primary Items is not specified, then it is set to Supported Items.
+    若未单独列出主要物品，则默认等同于支持物品。
 
 ![](/images/voxel/enchantment/bow-enchantment/image_1756618446043_202.png)
 
-Bow - Enchanting Table and Anvil
+弓：可在附魔台与铁砧上获得
 
 * * *
 
-### Incompatibilities
+### 互斥附魔
 
-This enchantment cannot be combined with the other enchantments on this list:
+该附魔无法与下列附魔共存：
 
-*   Include from vanilla **"Quick Charge"**
-*   Include from vanilla **"Multishot"**
-*   Include from vanilla **"Piercing"**
-*   **Include** from NeoEnchant **"Explosive Arrow"** (Version 5.13.0 and more)
+*   包含原版附魔 **“Quick Charge”**。
+*   包含原版附魔 **“Multishot”**。
+*   包含原版附魔 **“Piercing”**。
+*   包含 NeoEnchant 附魔 **“Explosive Arrow”**（版本 5.13.0 及以上）。
 
 * * *
 
-### Vanilla Structure :
+### 原版结构
 
-The list of places where this enchantment can be found in the vanilla structure:
+该附魔在原版结构中的获取途径：
 
-*   Can be found in **"Ancien City chest"**
+*   可在 **“上古城市宝箱”** 中找到。
+
 ### Yggdrasil
 
-The list of places where this enchantment can be found in the structures of Yggdrasil.
+该附魔在 Yggdrasil 结构中的获取途径：
 
-| Structure | Vault | Ominous Vault | Spawner | Ominous Spawner | Chest | Shulker |
+| 结构 | 宝库 | 不祥宝库 | 刷怪笼 | 不祥刷怪笼 | 箱子 | 潜影盒 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Runic Laby |  |  |  |  |  |  |

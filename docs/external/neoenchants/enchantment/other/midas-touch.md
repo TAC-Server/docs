@@ -1,70 +1,66 @@
 # Midas Touch
 !!! info ""
-    This enchantment is linked to Yggdrasil content. To use or find it, you need to install Yggdrasil.
+    该附魔与 Yggdrasil 资料包相关，如需获取或使用，必须安装 Yggdrasil。
 
-### Effects
-*   10% chance to transform target block into gold block
-*   90% chance to transform target block into gold ore
-*   Deals 50 durability damage per use
+### 效果
+*   10% 概率将目标方块转化为金块
+*   90% 概率将目标方块转化为金矿石
+*   每次使用会消耗 50 点耐久
 
-> Transforms blocks into gold.
+> 将方块转化为黄金。
 
 ![](/images/voxel/enchantment/other/image_1756618513111_152.png)
 
 * * *
 
-### Availability
+### 获取方式
 
-This section tells you how the enchantment is obtained, as well as other more specific information.
+本节说明附魔的获取渠道以及补充信息。
 
-Legend: Explanations of each box.[](#legend-explanations-of-each-box)
+图例：各指示格的含义。[](#legend-explanations-of-each-box)
 
 * * *
 
-_**Enchanting table:**_ If the enchantment is obtainable from the enchantment table
+_**附魔台：**_ 可通过附魔台获得。
 
-_**Mob Equipement:**_ Monsters such as zombies or skeleton can appear naturally with this enchantment on their equipment.
+_**生物装备：**_ 僵尸、骷髅等生物可能自带该附魔。
 
-_**Loot in Chest:**_ These enchantments can be found on naturally generated equipment from loot tables.
+_**箱子战利品：**_ 可在战利品表生成的装备上找到。
 
-_**Tradeable:**_ These enchantments can be sold by villagers.
+_**可交易：**_ 村民可能出售该附魔书。
 
-_**Tradeable Equipement:**_ These enchantments can be found on equipment sold by villagers.
+_**可交易装备：**_ 村民售卖的装备可能带有该附魔。
 
-_**The Price is Doubled:**_ These enchantments get charged twice as much in villager trades.
+_**价格翻倍：**_ 在村民交易中，售价会翻倍。
 
 ![](/images/voxel/enchantment/other/image_1756618513111_707.png)
 
-Darker boxes represent true, lighter boxes false
+深色方格代表“是”，浅色方格代表“否”。
 
 * * *
 
-### Compatible Items
-Explanation Primary / Supported (Technical)[](#explanation-primary-supported-technical)
+### 可附魔物品
+主要 / 支持项说明（技术向）[](#explanation-primary-supported-technical)
 
-**Primary Items (Enchanting Table):** Items for which this enchantment appears in an [enchanting table](https://minecraft.wiki/w/Enchanting_table).
+**主要物品（附魔台）：** 可在[附魔台](https://minecraft.wiki/w/Enchanting_table)上随机出现该附魔的物品。
 
-**Supported Items (Anvil):** Items on which this enchantment can be applied using an anvil or using the [`/enchant`](https://minecraft.wiki/w/Commands/enchant) command.
+**支持物品（铁砧）：** 可通过铁砧或[`/enchant`](https://minecraft.wiki/w/Commands/enchant)指令附加该附魔的物品。
 
 !!! info ""
-    If Primary Items is not specified, then it is set to Supported Items.
-
-> This item is a bit special and can only be used on items with a command. Only used by Yggdrasil
+    该附魔较为特殊，仅能通过指令赋予特定物品，主要用于 Yggdrasil 内容。
 
 * * *
 
-### Incompatibilities
+### 互斥附魔
 
-This enchantment cannot be combined with the other enchantments on this list:
-
-*   This enchantment has no incompatibility
+该附魔目前没有任何冲突。
 
 * * *
 
 ### Yggdrasil
 
-The list of places where this enchantment can be found in the structures of Yggdrasil.
+该附魔在 Yggdrasil 结构中的获取途径：
 
-| Structure | Vault | Ominous Vault | Spawner | Ominous Spawner | Chest |
+| 结构 | 宝库 | 不祥宝库 | 刷怪笼 | 不祥刷怪笼 | 箱子 |
 | --- | --- | --- | --- | --- | --- |
 | Alfheim |  |  |  |  |  |

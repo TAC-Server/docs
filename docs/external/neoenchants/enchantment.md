@@ -1,144 +1,145 @@
-# Enchantment
-> 因个人能力，暂未翻译
-## List of Enchantments and Their Effects
+# 附魔
+> 本页汇总 NeoEnchant+ 插件内的自定义附魔及其效果概述。
+> 由gpt-5翻译，如有错误请谅解
+
+## 附魔列表与效果
 
 * * *
 
-### Bow
+### 弓类
 
-_These enchantments apply to bows and crossbows, enhancing fired arrows with special effects._
+_这些附魔用于弓与弩，可为射出的箭矢赋予特殊效果。_
 
-*   **Breezing Arrow** : (Bow) At impact, the arrow will create a gust of wind that pushes entities away from the impact point. If the arrow hits an entity, she'll be sent briefly into the air.
-*   **Explosive Arrow** : (Bow) The arrow will explode on impact, dealing damage to entities and destroying blocks, the shooter is immune to this explosion.
-*   **Accuracy Shot** : (Bow) The shot arrow will go straight to the target, ignoring gravity, after long delay, the arrow will disappear.
-*   **Echo Shot** : (Bow) The arrow has the power of the warden, it will explode on impact, inflicting damage to entities and not destroying blocks, the shooter is immune to this explosion.
-*   **Storm Arrow** : (Bow) When arrow hit block, or entity, he has a chance to summon a lightning bolt at the impact point, dealing damage to entities and setting fire to blocks.
-*   **Eternal Frost** : (Bow) Transforms the ground into ice and slows targets, creating ice spikes on impact.
-*   **Rebound** : (Bow) Arrows bounce off walls and apply their effects with each bounce.
-
-* * *
-
-### Sword
-
-_These enchantments apply to swords, adding special effects to melee attacks._
-
-*   **Fear** : (Sword) When the player hit a creeper, increment the timer of the creeper explosion.
-*   **Life Steal** : (Sword) When the player hit an entity, the player will recover some health.
-*   **Pull** : (Sword) Have chance, after kill an entity to get the spawn egg of the entity.
-*   **Attack Speed** : (Sword) Increase the player's attack speed.
-*   **Reach** : (Sword) Increase the player's reach distance.
-*   **Tears of Asflors** : (Sword) Converts player experience into attack damage.
-*   **Last Hope** : (Sword) Consumes the item to deal infinite damage to the target.
-*   **Poison Aspect** : (Sword) Applies poison effect to players and wither effect to non-player entities when hit.
-*   **Critical** : (Sword) Has a chance to ignore a portion of the enemy's armor when attacking.
-*   **Runic Despair** : (Sword) Deals increased damage when in the Runic Dimension.
-*   **Death Touch** : (Sword) Has a chance to instantly kill the target entity.
-*   **Dimensional Hit** : (Sword) Deals additional damage when in dimensions other than the Overworld.
+*   **Breezing Arrow**：（弓）命中时在落点产生一阵气流，将附近实体推开；若命中实体，会将其短暂吹离地面。
+*   **Explosive Arrow**：（弓）箭矢命中后产生爆炸，伤害周围实体并破坏方块，射手不会受到爆炸伤害。
+*   **Accuracy Shot**：（弓）箭矢直线飞向目标并无视重力，长时间未命中则会消失。
+*   **Echo Shot**：（弓）借用监守者的力量，命中后引发音波爆炸，只伤害实体且不破坏方块，射手免疫该爆炸。
+*   **Storm Arrow**：（弓）命中方块或实体时有概率在落点召唤闪电，造成伤害并点燃方块。
+*   **Eternal Frost**：（弓）命中后将地面冻结成冰并减速目标，同时生成冰刺。
+*   **Rebound**：（弓）箭矢可以在墙壁间反弹，每次弹跳都会触发附魔效果。
 
 * * *
 
-### Trident & Mace
+### 剑类
 
-_These enchantments apply to tridents and maces, providing unique combat abilities._
+_这些附魔适用于剑，使近战攻击获得额外效果。_
 
-*   **Breath of Gungnir** : (Trident) Transforms the ground into ice and slows targets, creating ice spikes on impact.
-*   **Striker** : (Mace) When the player smash an entity with mace, have chance to create a lightning bolt at the impact point.
-*   **Wind Propulsion** : (Mace) When the player is on ground, he can attack the ground to propel himself in the air.
-*   **Telluric Wave** : (Mace) Creates a seismic wave that launches targets into the air when sneaking.
-
-* * *
-
-### Pickaxe
-
-_These enchantments apply specifically to pickaxes._
-
-*   **Vein Miner** : (Pickaxe) When the player breaks a block, all the connected minerals of the same type will be broken.
-*   **Bedrock Breaker** : (Pickaxe) The player can break bedrock, the player will need a pickaxe with this enchantment.
-*   **Spawner Touch** : (Pickaxe) The player can break spawner and get it, work on trial spawner and normal spawner.
+*   **Fear**：（剑）攻击苦力怕时延长其爆炸引信时间。
+*   **Life Steal**：（剑）攻击命中时为持有者回复少量生命值。
+*   **Pull**：（剑）击杀实体后有概率获得对应的刷怪蛋。
+*   **Attack Speed**：（剑）提升玩家的攻击速度。
+*   **Reach**：（剑）延长玩家的攻击距离。
+*   **Tears of Asflors**：（剑）将玩家的经验值转化为额外伤害。
+*   **Last Hope**：（剑）消耗整件武器，对目标造成无限伤害。
+*   **Poison Aspect**：（剑）命中玩家时施加中毒效果，命中非玩家实体时施加凋零效果。
+*   **Critical**：（剑）攻击时有概率无视部分护甲减伤。
+*   **Runic Despair**：（剑）在符文维度中造成额外伤害。
+*   **Death Touch**：（剑）有概率瞬间击杀目标实体。
+*   **Dimensional Hit**：（剑）在主世界以外的维度造成额外伤害。
 
 * * *
 
-### Tools
+### 三叉戟与重锤
 
-_These enchantments apply to multiple types of tools._
+_这些附魔适用于三叉戟与重锤，提供独特的战斗能力。_
 
-*   **Timber** : (Axe) When the player breaks a wood block, all the connected wood blocks will be broken.
-*   **Scyther** : (Hoe) Use left click on grass to transform it into farmland in zone depending of level.
-*   **Harvest** : (Hoe) Enhances farming capabilities, likely by improving crop harvesting efficiency.
-*   **Auto Smelt** : (Pickaxe) When the player breaks a block, the block will be automatically smelted.
-*   **Mining+** : (Pickaxe) Break in a zone of 3x3, depending of the direction of the player.
-
-* * *
-
-### Armor
-
-_These enchantments apply to all armor pieces (helmet, chestplate, leggings, boots)._
-
-*   **Life+** : (Helmet) Increase the maximum health of the player, the player will have more hearts.
-*   **Venom Protection** : (Armor) Protects the player from poison, with superior level, the player will be immune to wither.
-*   **Fury** : (Armor) Decrease armor but increase attack damage, add penetration to the attack.
+*   **Breath of Gungnir**：（三叉戟）命中后将地面冻结成冰并减速目标，同时生成冰刺。
+*   **Striker**：（重锤）重锤猛击实体时，有概率在落点生成闪电。
+*   **Wind Propulsion**：（重锤）在地面上用重锤砸地可将玩家抛向空中。
+*   **Telluric Wave**：（重锤）潜行攻击时掀起震波，将目标击飞。
 
 * * *
 
-### Helmet
+### 镐
 
-_These enchantments apply specifically to helmets._
+_这些附魔专用于镐子。_
 
-*   **Voidless** : (Helmet) The player is immune to the void, the player will got a brief levitation effect when he falls into the void.
-*   **Bright Vision** : (Helmet) The player has night vision, the player can see in the dark.
-*   **Auto Feed** : (Helmet) Every minute, the player automatically receives a few saturation points. It's not enough to be dependent on enchantment.
-
-* * *
-
-### Chestplate & Elytra
-
-_These enchantments apply specifically to chestplates._
-
-*   **Builder Arm** : (Chestplate) The player can place blocks from more distance, the player can also break blocks from more distance.
-*   **Magnet** : (Chestplate) Attracts nearby items to the player automatically.
-*   **Armored** : (Elytra) Increase the player's armor for Elytra, the player will take less damage.
-*   **Kinetic Protection** : (Elytra) Reduces damage from flying into walls or other obstacles while using elytra.
+*   **Vein Miner**：（镐）破坏矿石方块时，会同时破坏与之相连的同类矿石。
+*   **Bedrock Breaker**：（镐）允许玩家破坏基岩，但需要持有带有该附魔的镐。
+*   **Spawner Touch**：（镐）可以挖掘刷怪笼并将其收集，适用于试炼刷怪笼与普通刷怪笼。
 
 * * *
 
-### Leggings
+### 工具
 
-_These enchantments apply specifically to leggings._
+_这些附魔可用于多种工具。_
 
-*   **Dwarfed** : (Leggings) The size of the entity is reduced.
-*   **Fast Swim** : (Leggings) The player can swim faster.
-*   **Leaping** : (Leggings) The player can jump higher.
-*   **Oversize** : (Leggings) The size of the entity is increased.
-
-* * *
-
-### Boots
-
-_These enchantments apply specifically to boots._
-
-*   **Lava Walker** : (Boots) When the player walks on lava, the enchantment will create a block of magma under the player's feet, the player is also immune to lava and magma damage.
-*   **Step Assist** : (Boots) Increase the player's step height, the player can climb blocks more easily without jumping.
-*   **Agility** : (Boots) Increase the player's speed.
+*   **Timber**：（斧）破坏单个木头方块时，会一并砍倒相连的所有木头。
+*   **Scyther**：（锄）左键草方块可按附魔等级在一定范围内转换为耕地。
+*   **Harvest**：（锄）提升农作物收获效率，使耕作更加顺畅。
+*   **Auto Smelt**：（镐）破坏方块后直接获得熔炼后的掉落物。
+*   **Mining+**：（镐）按照玩家朝向一次性开采 3×3 区域。
 
 * * *
 
-### Mount
+### 盔甲
 
-_These enchantments apply to horse armor and other mount equipment._
+_这些附魔适用于所有盔甲部件（头盔、胸甲、护腿、靴子）。_
 
-*   **Rider Egis** : (Mount) Provides damage protection to the mount, reducing damage taken from most sources.
-*   **Ethereal Leap** : (Mount) Increases the mount's jump strength and reduces fall damage.
-*   **Velocity** : (Mount) Increases the movement speed of the mount significantly.
-*   **Steel Fang** : (Dog) Increases the attack damage of tamed wolves.
+*   **Life+**：（头盔）提升玩家最大生命值，获得更多心。
+*   **Venom Protection**：（盔甲）抵御中毒效果，高等级时还能免疫凋零。
+*   **Fury**：（盔甲）降低护甲值但提升攻击力，并附加护甲穿透。
 
 * * *
 
-### Other
+### 头盔
 
-_These enchantments have special effects or can be applied to various items._
+_这些附魔仅适用于头盔。_
 
-**Xp Boost** : (All) Increase the player's experience gain when killing entities.
+*   **Voidless**：（头盔）令玩家免疫虚空伤害，坠入虚空时会获得短暂漂浮效果。
+*   **Bright Vision**：（头盔）赋予夜视效果，使玩家在黑暗中视线清晰。
+*   **Auto Feed**：（头盔）每分钟自动补充少量饱和度，但不足以完全依赖该附魔。
 
-*   **Curse of Breaking** : (All) The item loses durability with each use with an increasing chance based on level.
-*   **Curse of Enchant** : (All) The item can no longer be enchanted.
-*   **Midas Touch** : (All) Transforms blocks into gold ore or gold blocks when hit, consuming significant durability.
+* * *
+
+### 胸甲与鞘翅
+
+_这些附魔主要用于胸甲，部分适用于鞘翅。_
+
+*   **Builder Arm**：（胸甲）延长放置与破坏方块的距离。
+*   **Magnet**：（胸甲）自动吸附附近掉落物。
+*   **Armored**：（鞘翅）为鞘翅提供额外护甲值，降低所受伤害。
+*   **Kinetic Protection**：（鞘翅）减少飞行时撞击墙壁或障碍物造成的伤害。
+
+* * *
+
+### 护腿
+
+_这些附魔仅适用于护腿。_
+
+*   **Dwarfed**：（护腿）缩小实体体型。
+*   **Fast Swim**：（护腿）提升玩家的游泳速度。
+*   **Leaping**：（护腿）提高玩家的跳跃高度。
+*   **Oversize**：（护腿）增大实体体型。
+
+* * *
+
+### 靴子
+
+_这些附魔仅适用于靴子。_
+
+*   **Lava Walker**：（靴子）在熔岩上行走时脚下生成岩浆块，并使玩家免疫熔岩与岩浆块伤害。
+*   **Step Assist**：（靴子）提高玩家的踏步高度，让攀越方块更加轻松。
+*   **Agility**：（靴子）提升玩家的移动速度。
+
+* * *
+
+### 坐骑
+
+_这些附魔适用于马匹护甲及其他坐骑装备。_
+
+*   **Rider Egis**：（坐骑）为坐骑提供减伤，降低其受到的大多数伤害。
+*   **Ethereal Leap**：（坐骑）提高坐骑的跳跃高度并减少坠落伤害。
+*   **Velocity**：（坐骑）显著提升坐骑的移动速度。
+*   **Steel Fang**：（犬类）增强被驯服狼的攻击力。
+
+* * *
+
+### 其他
+
+_这些附魔具有特殊效果或可用于多种物品。_
+
+*   **XP Boost**：（通用）提升玩家击杀实体时获得的经验值。
+*   **Curse of Breaking**：（通用）与 **Unbreaking** 效果相反，会加速物品耐久损耗。
+*   **Curse of Enchant**：（通用）使物品无法再进行附魔。
+*   **Midas Touch**：（通用）攻击方块时将其转化为金矿石或金块，但会大量消耗耐久。

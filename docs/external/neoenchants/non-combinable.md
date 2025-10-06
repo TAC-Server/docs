@@ -1,126 +1,127 @@
-# Non Combinable
-## Set Exclusives and Incompatibilities
+# 互斥附魔
+## 套装限定与不相容规则
 
-Some enchantments cannot be combined on the same item due to their specific effects or compatibility restrictions. These enchantments are incompatible with each other. You must choose one of these enchantments, they cannot be applied simultaneously.
+某些附魔因为其特殊效果或兼容性限制，无法同时应用在同一件物品上。以下列出的附魔彼此冲突，必须从中择一，不能并存。
 
-### Main Armor
+### 主防具
 
-These enchantments offer significant benefits to your armor, but they are mutually exclusive. You must choose one of these effects for your armor.
+这些附魔为盔甲带来显著增益，但互相排斥。你需要为盔甲选择其中一种效果。
 
-*   **Life+**: Provides additional hearts, increasing your overall health.
-*   **Fury**: Increases damage dealt, enhancing your offensive capabilities.
-*   **Protection**: Offers enhanced protection against various forms of damage, improving your defensive capabilities.
-
-* * *
-
-### Protection Armor
-*   Protection cannot be combined with secondary Protection enchantments.
-*   **Life+** and **Fury** Can be combined with one of the following enchantments:
-    *   **Venom Protection**: safeguards against poison and other negative effects.
-    *   **Blast Protection**: Reduces damage from explosions.
-    *   **Projectile Protection**: mitigates damage from arrows and other projectiles.
-    *   **Fire Protection**: reduces damage from fire and lava.
+*   **Life+**：提供额外心数，提升总生命值上限。
+*   **Fury**：提高伤害输出，强化进攻能力。
+*   **Protection**：强化对多种伤害的减免，提升防御性能。
 
 * * *
 
-### Bow Effects
+### 防御附魔
 
-These enchantments provide unique effects for bows. You must select the enchantment that best fits your combat strategy, as they cannot be combined on the same bow.
-
-*   **Breezing Arrow**: Causes a repulsion effect, sending the hit target into the air. If arrows miss, it creates a repulsion effect on the ground.
-*   **Explosive Arrow**: Creates an explosion upon hitting a block, dealing damage to entities in the vicinity.
-*   **Storm Arrow**: Summons a storm upon impact, dealing damage and creating a stormy effect in the area.
-*   **Echo Shot**: Creates a sonic boom upon impact, dealing additional damage and potentially disorienting the target.
-*   **Quick Charge**: Reduces the time required to charge crossbows, allowing for faster shooting.
-*   **Eternal Frost**: Shot an arrow and freeze the water around you, and slow down target that hit the arrow.
+*   **Protection** 无法与其他次级防御类附魔同时出现。
+*   **Life+** 与 **Fury** 可以与下列任意一项附魔叠加：
+    *   **Venom Protection**：抵御中毒等负面状态。
+    *   **Blast Protection**：降低爆炸伤害。
+    *   **Projectile Protection**：减轻来自箭矢等远程投射物的伤害。
+    *   **Fire Protection**：减少火焰与熔岩造成的伤害。
 
 * * *
 
-### Mining Effects
+### 弓箭效果
 
-These enchantments enhance your mining capabilities, offering various benefits. You must select the enchantment that best suits your mining needs, as they cannot be combined on the same tool.
+这些附魔为弓提供独特能力，但不能同时存在。请选择最符合你战斗策略的一项。
 
-*   **Vein Miner**: Allows you to break all surrounding mineral blocks at once when mining a single block.
-*   **Mining+**: Improves the efficiency of mining operations, increasing the speed and effectiveness of mining tools.
-*   **Spawner Touch**: Enables your pickaxe to retrieve spawners when mining them.
-*   **Bedrock Breaker**: Allows you to break bedrock blocks, though it consumes a significant amount of durability with each block broken.
-
-* * *
-
-### Size Effects
-
-These enchantments modify the size of entities, including the player, and affect how you interact with your environment. Choose the enchantment that best suits your needs, as they are mutually exclusive.
-
-*   **Oversize**: Increases the size of entities, making them larger and potentially more imposing in the game world.
-*   **Dwarfed**: Decreases the size of entities, making them smaller and potentially more agile or less noticeable.
+*   **Breezing Arrow**：制造击退气流，将命中的目标抛向空中。未命中实体时，会在落点产生驱散效果。
+*   **Explosive Arrow**：命中方块后发生爆炸，伤害周围实体。
+*   **Storm Arrow**：命中后召唤雷暴，对范围内目标造成伤害并产生风暴效果。
+*   **Echo Shot**：命中后触发音爆，造成额外伤害并可能扰乱目标。
+*   **Quick Charge**：缩短弩的上弦时间，提升射速。
+*   **Eternal Frost**：冻结箭矢附近的水面，并减速被命中的目标。
 
 * * *
 
-### Sword Attributes
+### 采掘效果
 
-These enchantments enhance the fundamental attributes of your sword, affecting its performance in combat. Choose the appropriate attribute to suit your fighting style.
+这些附魔增强采掘效率，但互不兼容。请选择最符合当前需求的一项。
 
-*   **Attack Speed**: Increases attack speed.
-*   **Reach**: Extends attack range.
-*   **Dimensional Hit**: Increases damage in other dimensions.
-*   **Runic Despair**: Increases damage in Runic Dimension.
-
-* * *
-
-### Sword Effects
-
-These enchantments add special effects to your sword, influencing its impact and functionality during combat. You must select one effect for your sword, as they are mutually exclusive.
-
-*   **Pull**: Chance to obtain mob eggs on kill.
-*   **Life Steal**: Drains health from targets.
-*   **Fear**: Delays creeper explosions.
-*   **Death Touch**: Has a chance to instantly kill the target.
-*   **Last Hope**: Sacrifices weapon for massive damage.
-*   **Tears of Asflors**: Converts XP to damage.
-*   **Critical**: Has a chance to ignore a portion of the enemy's armor when attacking.
+*   **Vein Miner**：破坏单个矿石时，同时采集相连的同类矿脉。
+*   **Mining+**：提升范围采掘效率，使挖掘更加迅速有效。
+*   **Spawner Touch**：允许用镐拆除刷怪笼并收集。
+*   **Bedrock Breaker**：可破坏基岩，但每次消耗大量耐久。
 
 * * *
 
-### Sword Aspects
+### 体型效果
 
-These enchantments add special effects to your sword, impacting the damage and status effects applied to your enemies. You must choose one aspect for your sword, as they are mutually exclusive.
+这些附魔会改变实体（包括玩家）的体型与互动方式，互相排斥。
 
-*   **Fire Aspect**: Sets your target on fire when you hit them, causing additional burn damage over time.
-*   **Poison Aspect**: Poisons the target upon hitting them, dealing damage over time and weakening them.
-
-* * *
-
-### Experience Management for Swords
-
-These enchantments help you manage and enhance experience gain and repair for your sword. Choose the one that best fits your needs.
-
-*   **XP Boost**: Grants additional experience from killing mobs, enhancing your ability to gather experience.
-*   **Mending**: Uses collected experience to repair your sword, making it last longer.
+*   **Oversize**：放大实体体型，使其显得更为魁梧。
+*   **Dwarfed**：缩小实体体型，使其更灵活、也更不显眼。
 
 * * *
 
-### Trident Effects
+### 剑基础属性
 
-These enchantments provide unique effects for tridents, enhancing their combat capabilities.
+这些附魔改变剑的基础属性，会影响战斗方式，请根据打法选择其中一项。
 
-*   **Channeling**: Summons a lightning bolt when a trident strikes an entity during a thunderstorm.
-*   **Breath of Gungnir**: Transforms the ground into ice and slows targets, creating ice spikes on impact.
-
-* * *
-
-### Mace Effects
-
-These enchantments provide unique effects for maces, enhancing their combat capabilities.
-
-*   **Wind Burst**: Creates a burst of wind on impact.
-*   **Telluric Wave**: Creates a seismic wave that launches targets into the air when sneaking.
+*   **Attack Speed**：提升攻击速度。
+*   **Reach**：延长攻击距离。
+*   **Dimensional Hit**：在其他维度提升伤害。
+*   **Runic Despair**：在符文维度造成额外伤害。
 
 * * *
 
-### Durability Enchantments
+### 剑特效
 
-These enchantments cannot be combined with other durability enchantments.
+这些附魔为剑追加特殊效果，互不兼容，请选择一个最适合的特效。
 
-*   **Curse Of Breaking**: It's the opposite of **Unbreaking**, so this enchantment will break your tool faster, and you will lose durability.
-*   **Unbreaking**: Increases the durability of items, making them last longer.
-*   **Mending**: Uses collected experience to repair your items, making them last longer.
+*   **Pull**：击杀生物时有概率掉落对应的刷怪蛋。
+*   **Life Steal**：吸取目标生命并为持有者回血。
+*   **Fear**：延缓苦力怕的爆炸时间。
+*   **Death Touch**：有几率瞬间击杀目标。
+*   **Last Hope**：牺牲整把武器以造成极高伤害。
+*   **Tears of Asflors**：将经验值转化为额外伤害。
+*   **Critical**：攻击时有概率无视部分护甲减伤。
+
+* * *
+
+### 剑元素
+
+这些附魔决定剑造成的持续伤害或状态效果，互相排斥。
+
+*   **Fire Aspect**：命中时点燃目标，造成持续灼烧伤害。
+*   **Poison Aspect**：命中后施加中毒效果，对目标造成持续伤害并削弱其状态。
+
+* * *
+
+### 剑的经验管理
+
+这些附魔帮助管理经验收益或武器维修，请择一使用。
+
+*   **XP Boost**：击杀生物时额外获得经验值。
+*   **Mending**：使用获得的经验自动修复武器。
+
+* * *
+
+### 三叉戟特效
+
+这些附魔赋予三叉戟额外能力。
+
+*   **Channeling**：雷雨天气下命中实体时召唤闪电。
+*   **Breath of Gungnir**：命中后冻结地面并减速目标，生成冰刺。
+
+* * *
+
+### 重锤特效
+
+这些附魔赋予重锤额外能力。
+
+*   **Wind Burst**：命中时释放气浪。
+*   **Telluric Wave**：潜行攻击时掀起震波，将目标击飞。
+
+* * *
+
+### 耐久类附魔
+
+这些附魔与其他耐久类附魔互斥。
+
+*   **Curse Of Breaking**：与 **Unbreaking** 相反，会更快耗尽物品耐久。
+*   **Unbreaking**：延长物品耐久，提升耐用性。
+*   **Mending**：使用获得的经验自动修复物品。
