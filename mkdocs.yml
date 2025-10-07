@@ -28,9 +28,6 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
       type: datetime
-  - git-committers:
-      repository: TAC-Server/docs
-      branch: main
   - glightbox
 markdown_extensions:
   - abbr
