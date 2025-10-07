@@ -2,6 +2,68 @@
 > 本页汇总 NeoEnchant+ 插件内的自定义附魔及其效果概述。
 > 由gpt-5翻译，如有错误请谅解
 
+## 中英对照表
+## 中英对照表
+| 英文名称 (Enchantment ID)         | 中文名称 (Chinese Name) | 英文描述 (English Description)                                  | 中文描述 (Chinese Description)                                  |
+| :-------------------------------- | :---------------------- | :-------------------------------------------------------------- | :-------------------------------------------------------------- |
+| `fury`      | 狂怒                    | Lowers armor, increases penetration and damage.                 | 降低护甲，提高穿透和伤害。                                      |
+| `lifeplus`    | 生命+                   | Gain extra health.                                              | 获得额外生命值。                                                |
+| `venom protection` | 毒素防护                | Protection from negative effects.                               | 防护负面效果。                                                  |
+| `timber`      | 伐木工                  | Chops down an entire tree at once.                              | 一次性砍倒整棵树。                                              |
+| `agility`     | 敏捷                    | Increases movement speed.                                       | 提高移动速度。                                                  |
+| `lava walker`   | 熔岩行者                | Can walk on lava.                                               | 可以在熔岩上行走。                                              |
+| `step assist`   | 步行辅助                | Easier to climb blocks.                                         | 更容易爬上方块。                                                |
+| `accuracy shot` | 精准射击                | Arrows ignore gravity and fly straight.                         | 箭矢无视重力直线飞行。                                          |
+| `breezing arrow`| 微风之箭                | Knocks back targets or creates an effect on the ground.         | 击退目标或在地面产生效果。                                      |
+| `echo shot`     | 回声射击                | Allows every arrow to carry an echo from ancient times.         | 让你的每一发箭都带有来自远古的回声。                            |
+| `eternal frost` | 永恒霜冻                | Freezes blocks and slows targets.                               | 冻结方块并减缓目标。                                            |
+| `explosive arrow`| 爆炸之箭                | Arrows explode on impact.                                       | 箭矢击中时产生爆炸。                                            |
+| `rebound`     | 反弹                    | Arrows bounce off walls.                                        | 箭矢会在墙壁上反弹。                                            |
+| `storm arrow`   | 风暴之箭                | Summons lightning on impact.                                    | 击中时召唤闪电。                                                |
+| `builder arm`   | 建筑之臂                | Extends the range for placing and breaking blocks.              | 扩大放置和破坏方块的范围。                                      |
+| `curse of breaking`| 脆弱诅咒                | Increases the rate of tool durability consumption.              | 增加工具的耐久度消耗速率。                                      |
+| `curse of enchant`| 附魔诅咒                | Deprives the right to enchant.                                  | 剥夺附魔权利。                                                  |
+| `armored`     | 装甲强化                | Reduces elytra damage.                                          | 降低鞘翅伤害。                                                  |
+| `auto feed`     | 自动进食                | Automatically eats every 3 minutes.                             | 每3分钟自动进食。                                               |
+| `bright vision` | 夜视                    | Grants night vision.                                            | 获得夜视能力。                                                  |
+| `voidless`    | 虚空免疫                | Floats briefly when falling into the void.                      | 掉入虚空时短暂漂浮。                                            |
+| `scyther`     | 开垦者                  | Cultivates a larger area at once (left-click).                  | 一次性开垦更大的区域（左键点击）。                              |
+| `dwarfed`     | 矮人化                  | Reduces size and speed, increases step assist.                  | 减小体型和速度，增加步行辅助。                                  |
+| `fast swim`     | 快速游泳                | Gains the effect of Dolphin's Grace.                            | 获得海豚的恩惠效果。                                            |
+| `leaping`     | 跳跃                    | Increases jumping ability.                                      | 提高跳跃能力。                                                  |
+| `oversize`    | 巨人化                  | Increases body size, reduces damage and attack range.           | 增加体型，降低伤害和攻击范围。                                  |
+| `striker`     | 雷击                    | Summons lightning during a thunderstorm, grants immunity.       | 在暴风雨中召唤闪电，获得免疫。                                  |
+| `teluric wave`  | 地震波                  | Creates an earthquake wave when sneaking and hitting the ground.| 潜行并击地时产生地震波。                                        |
+| `wind propulsion`| 风力推进                | Creates an explosion on landing, pushing you into the air.      | 落地时产生爆炸，将你推向空中。                                  |
+| `bedrock breaker`| 基岩破坏者              | Can break bedrock, consuming 150 durability per block.          | 可以破坏基岩，每个方块消耗150耐久。                             |
+| `spawner touch` | 刷怪笼之触              | Allows obtaining monster spawners.                              | 允许获取怪物刷怪笼。                                            |
+| `vein miner`    | 连锁采集                | Mines all connected ores.                                       | 挖掘所有相连的矿石。                                            |
+| `attack speed`  | 攻击速度                | Increases attack speed.                                         | 提高攻击速度。                                                  |
+| `last hope`     | 最后希望                | Sacrifices items for infinite damage.                           | 牺牲物品获得无限伤害。                                          |
+| `fear`        | 恐惧                    | Delays Creeper explosions.                                      | 延迟苦力怕爆炸。                                                |
+| `life steal`    | 生命汲取                | Steals health from targets.                                     | 从目标吸取生命值。                                              |
+| `poison aspect` | 毒素                    | Poisons targets on hit.                                         | 击中时使目标中毒。                                              |
+| `pull`        | 捕捉                    | Chance to get monster eggs on kill (1%).                        | 击杀时有机会获得怪物蛋（1%）。                                  |
+| `reach`       | 延伸                    | Extends attack range.                                           | 扩大攻击范围。                                                  |
+| `tears of asflors`| 阿斯弗洛斯之泪          | Converts experience into damage.                                | 将经验值转化为伤害。                                            |
+| `xp boost`    | 经验提升                | Increases experience gained from killing mobs.                  | 增加击杀怪物获得的经验值。                                      |
+| `auto smelt`    | 自动冶炼                | Automatically smelts mined items.                               | 自动冶炼挖掘的物品。                                            |
+| `miningplus`    | 采矿+                   | Mines in a 3x3 area.                                            | 在3x3范围内挖掘。                                               |
+| `gungnir breath`| 冈格尼尔之息            | Freezes water and slows targets.                                | 冻结水并减缓目标。                                              |
+| `ethereal leap` | 空灵跃动                | Increases mount jump height and reduces fall damage.            | 增加坐骑的跳跃高度，并减少摔落伤害。                            |
+| `velocity`    | 速度                    | Increases mount movement speed.                                 | 增加坐骑的移动速度。                                            |
+| `steel fang`    | 钢牙                    | Makes your mount deal more damage on attack.                    | 使你的坐骑在攻击时造成更多伤害。                                |
+| `cavalier egis` | 骑士守护                | Reduces damage taken while riding a mount.                      | 骑乘坐骑时受到的伤害降低。                                      |
+| `midas touch`   | 点金术                  | Transforms blocks into gold or gold ore, consuming 150 durability per block.| 将方块转化为金或金矿石，每个方块消耗150耐久。                 |
+| `kinetic protection` | 动能保护                | Protects you from elytra collision damage.                      | 保护你免受鞘翅碰撞伤害。                                        |
+| `harvest`     | 播种者                  | Sows a larger area at once (holding tool in off-hand).          | 一次性播种更大的区域（副手拿着工具）。                          |
+| `dimensional strike` | 维度打击                | Deals more damage in other dimensions.                          | 在其他维度造成更多伤害。                                        |
+| `critical hit`  | 暴击                    | Has a chance to deal true damage.                               | 有几率造成真实伤害。                                            |
+| `runic despair` | 符文绝望                | Deals more damage in the Rune Dimension.                        | 在符文维度造成更多伤害。                                        |
+| `death touch`   | 死亡之触                | Gives enemies the darkness effect.                              | 给予敌人黑暗效果。                                              |
+| `happy boost`   | 快乐增幅                | Increases the flight speed of your Happy Ghast.                 | 增加你的快乐恶魂的飞行速度。                                    |
+| `curse of clumsiness` | 卷刃诅咒                | Reduces the damage value of items.                              | 降低物品的伤害值。                                              |
+
 ## 附魔列表与效果
 
 * * *
