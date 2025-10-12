@@ -21,11 +21,17 @@
 ## 3. 可选/提升游戏体验的Mod
 <div class="grid cards" markdown>
 
+-   ### [Enchantment Descriptions 附魔简介](https://www.mcmod.cn/class/1945.html)
+    
+    显示服务器更多附魔的附魔简介, 不用经常查文档, {==**墙裂建议安装**==}
+    
+-   ### [ResourcePackCached 服务器资源包缓存](https://www.mcmod.cn/class/20117.html)
+    缓存服务器资源包以便快速加载, {==**墙裂建议安装**==}
+
 -   ### [Bobby 服务器区块缓存](https://www.mcmod.cn/class/5291.html)
     为了优化带宽占用, 服务器设置的视距偏小
 
     你可以通过安装[Bobby](https://www.mcmod.cn/class/5291.html)来缓存服务器区块, 获得更大视距
-
 
 -   ### [Distant Horzion 遥远的地平线 (仅外服)](https://www.mcmod.cn/class/5009.html)
     我们在TACS外服配置了相关的插件/Mod, 客户端只需安装此Mod即可享受到超高视野带来的画面
@@ -37,14 +43,9 @@
     高版本的输入法冲突解决模组, 可以避免你```aaaaaaaaaaaadssadwwd```
 
 -   ### [Particle Rain 粒子雨](https://www.mcmod.cn/class/4897.html)
-    让原版的雨更好看
+    让原版的雨更好看(可能会影响性能)
 
     ![预览图](https://img.fastmirror.net/s/2025/08/27/68aefdaf7abd1.png)
-
--   ### [idwtialsimmoedm 附魔简介](https://www.mcmod.cn/class/6555.html)
-    安装后可以显示服务器更多附魔的附魔简介, 不用经常查wiki
-    !!! tips "需要手动配置"
-        ![手动配置](https://img.fastmirror.net/s/2025/08/27/68aefeed74831.png)
 
 -   ### [Paginated Advancements 分页进度](https://www.mcmod.cn/class/8062.html)
     不用对着原版小的可怜的成就屏幕发呆了
@@ -67,7 +68,7 @@
     没有离线账号的不二之选  
     你需要在启动器[将其设置为登录方式](https://manual.littlesk.in/yggdrasil/client)  
 
-    __[:fontawesome-solid-arrow-right: 查看教程](https://manual.littlesk.in/newbee/)__
+    __[查看教程 :fontawesome-solid-arrow-right:](https://manual.littlesk.in/newbee/)__
 </div>
 
 ## 5. 进入服务器

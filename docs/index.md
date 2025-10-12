@@ -1,6 +1,6 @@
 ---
 hide:
-  - navigation
+  - toc
 comments: false
 ---
 茶水晶服务器现有**内服**和**外服**两个互不相通的服务器,
