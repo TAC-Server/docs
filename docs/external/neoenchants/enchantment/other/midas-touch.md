@@ -1,4 +1,7 @@
 # Midas Touch
+
+> 服务器未安装 Yggdrasil 数据包
+
 !!! info ""
     该附魔与 Yggdrasil 资料包相关，如需获取或使用，必须安装 Yggdrasil。
 

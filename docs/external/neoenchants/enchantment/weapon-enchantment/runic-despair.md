@@ -1,4 +1,7 @@
 # Runic Despair
+
+> 服务器未安装 Yggdrasil 数据包
+
 !!! info ""
     该附魔与 Yggdrasil 内容相关，如需获取或使用，必须安装 Yggdrasil。
 
