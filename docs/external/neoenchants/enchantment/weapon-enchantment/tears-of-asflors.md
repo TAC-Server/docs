@@ -1,4 +1,7 @@
 # Tears of Asflors
+
+> __此附魔已被禁用!!!__
+
 !!! info ""
     该附魔与 Yggdrasil 内容相关，如需获取或使用，必须安装 Yggdrasil。
 
