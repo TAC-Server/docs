@@ -3,9 +3,10 @@ hide:
   - toc
 comments: false
 ---
+# Welcome to TACS
+
 茶水晶服务器现有**内服**和**外服**两个互不相通的服务器,
 均在 Redapple_one 的物理机上运行, 使用[MCJPG](https://mcjpg.org/)的内网穿透
-
 
 === "内服"
     邀请制(仅内服成员可邀请)
@@ -32,7 +33,7 @@ comments: false
 | :--- | :------------------------------------------------------------------------------------------- |
 | CPU  | [Intel® Core™ i5 processor 14600K](https://www.intel.cn/content/www/cn/zh/products/sku/236799/intel-core-i5-processor-14600k-24m-cache-up-to-5-30-ghz/specifications.html "最大睿频频率 5.3 GHz, 6P 8E 14C20T") |
 | 内存 | DDR4 32G\*2 3200MHz                                                                          |
-| 硬盘 | [Intel® DC P4510 1 DWPD](https://www.intel.cn/content/www/cn/zh/architecture-and-technology/cloud-inspired-storage-optimized-p4510-brief.html "	≈ 1825 TBW")                                                                       |
+| 硬盘 | [Intel® DC P4510 1 DWPD](https://www.intel.cn/content/www/cn/zh/architecture-and-technology/cloud-inspired-storage-optimized-p4510-brief.html " ≈ 1825 TBW")                                                                       |
 | 网络 | 电信家宽<br />IPv6 DDNS<br />IPv4 自建穿透 40Mbps                                                          |
 
 /// caption
@@ -47,18 +48,20 @@ comments: false
 
 赞助不会获得游戏内物品
 
-*比如一组下界合金块, 飞行权限等*
+比如一组下界合金块, 飞行权限等
 
 但您可以获得称号等不会影响公平性的装饰, 还可以加入服务器股东群, 进入[赞助者名单](sponsors.md)
 
 ## 宣传
+
 服务器正处于宣传阶段
 
-如果您觉得服务器很好玩, __劳烦将本服推荐给您的朋友__
+如果您觉得服务器很好玩, **劳烦将本服推荐给您的朋友**
 
 本服将感激不尽, 并且您可在外服获得彩色名称
 
 ## 官方人员
+
 以下是TACS的官方人员, 欢迎大家监督
 
 在外服中, 管理禁止参与游戏

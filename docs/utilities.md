@@ -3,7 +3,10 @@ hide:
   - navigation
   - toc
 ---
+# 实用链接
+
 ## Minecraft 相关
+
 - [MCNav](https://www.mcnav.net/)
 - [MCJPG Nav](https://mcjpg.org/nav/)
 - [中文 Minecraft Wiki](https://zh.minecraft.wiki/)
@@ -12,6 +15,7 @@ hide:
 - [NeoEnchant+ Wiki](https://hardels-organization.gitbook.io/voxel)
 
 ## 网络相关
+
 === "百度百科"
     - [IPv4](https://baike.baidu.com/item/IPV4/422599)
     - [IPv6](https://baike.baidu.com/item/IPv6/172297)

@@ -1,24 +1,26 @@
+# 相关Wiki
+
 <div class="grid cards" markdown>
 
-*   __更多附魔__
+* __更多附魔__
 
     ---
 
     [NeoEnchant+](https://hardels-organization.gitbook.io/voxel){ .md-button }
 
-*   __更多地形__
+* __更多地形__
 
     ---
 
     [Stardust Labs Wiki](https://stardustlabs.miraheze.org/wiki/Main_page){ .md-button }
 
-*   __圈地__
+* __圈地__
 
     ---
 
     [Dominion Docs（自建）](https://dominion.docs.tacs.top/notes/doc/player/){ .md-button }
 
-*   __遥远的地平线__
+* __遥远的地平线__
 
     ---
 

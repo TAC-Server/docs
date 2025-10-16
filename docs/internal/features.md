@@ -1,5 +1,9 @@
+# 常用功能
+
 > 由于很多新玩家不会或不知道服务器内各项功能如何使用, 故撰写该部分
+>
 ## MCDR指令
+
 - !s |
 可以切换生存模式和旁观者模式
 切换回生存模式时, 位置和切换之前一样, 不会改变
@@ -34,6 +38,7 @@
 | !!calc color ``<#HEX>`` | 16十进制RGB转10进制 | !!calc color #00FF00 | #00FF00 -> (0, 255, 0) |
 
 ## 原版指令
+
 - /seed |
 获取服务器种子
 - /lg i |
@@ -41,13 +46,16 @@
 使用方法请查看[Ledger 文档](https://www.quiltservertools.net/Ledger/latest/)
 
 ## 假人管理
+
 常用机器的假人请保存到假人管理器中, 并带上中文注释
 
 **假人名称需遵守[假人命名规范](../fakeplayer.md)**
 !!! note "不要使用奇奇怪怪的缩写"
     比如``bot_zrt``(猪肉塔) ``bot_hht``(海货塔)
     **~~很容易挨揍~~**
+
 ## 成就汉化
+
 客户端装载[成就汉化材质包](https://modrinth.com/resourcepack/bacap-language-pack)后即可获得中文成就翻译
 
 ![合成表](../images/crafting_table.png)

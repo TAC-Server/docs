@@ -202,3 +202,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# .markdownlint.jsonc
+.markdownlint.jsonc
