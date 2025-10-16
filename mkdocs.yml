@@ -1,6 +1,6 @@
 site_name: TACS文档
 site_url: https://docs.tacs.top
-repo_url: https://github.com/TAC-Server/docs/
+repo_url: https://github.com/TAC-Server/docs
 edit_uri: edit/main/docs/
 copyright: Copyright &copy; 2016 - Now <a href="https://space.bilibili.com/1546229901"><b>Redapple_one</b></a>
 extra_css:
