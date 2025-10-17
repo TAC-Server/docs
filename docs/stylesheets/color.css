@@ -1,3 +1,7 @@
 :root  > * {
+  --md-primary-fg-color:#3b7bc4;
+}
+
+[data-md-color-scheme="default"] {
   --md-primary-fg-color:#2086ed;
 }

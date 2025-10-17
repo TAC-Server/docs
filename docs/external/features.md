@@ -169,11 +169,7 @@
 <div class="grid cards" markdown>
 
 * ![附魔金苹果](../images/craftable_notch_apples.png)
-* ![鞘翅](../images/craftable_elytra.png)
-
-> 鞘翅复制
-> 合成后会单独返回第二个鞘翅
-
+* ![鞘翅](../images/craftable_elytra.png) **合成后会单独返回第二个鞘翅**
 * ![快捷发射器](../images/dropper_to_dispenser.png)
 * ![更多楼梯](../images/more_stairs.png)
 * ![更多活板门](../images/more_trapdoors.png)

@@ -22,7 +22,7 @@
 
 参见[这份教程](https://www.bilibili.com/opus/806747033441402937)或自行安装
 
-## 3. 可选/提升游戏体验的Mod
+## 3. 服务器配套Mod
 
 <div class="grid cards" markdown>
 
@@ -36,16 +36,13 @@
 
 - ### [Bobby 服务器区块缓存](https://www.mcmod.cn/class/5291.html)
 
-    为了优化带宽占用, 服务器设置的视距偏小
-
-    你可以通过安装[Bobby](https://www.mcmod.cn/class/5291.html)来缓存服务器区块, 获得更大视距
+    缓存服务器区块, 获得大于服务器的视距
 
 - ### [Distant Horzion 遥远的地平线 (仅外服)](https://www.mcmod.cn/class/5009.html)
 
-    我们在TACS外服配置了相关的插件/Mod, 客户端只需安装此Mod即可享受到超高视野带来的画面  
-
-  - [汉化材质包 ConfectionaryQwQ&在摸鱼的天本 汉化](https://modrinth.com/project/Lk0fz74T)
-  - [汉化材质包 HuaHua_QuQ 汉化](https://modrinth.com/project/rkWYmOTW)
+    服务端支持, 无需跑图即可享受  
+    [汉化材质包(ConfectionaryQwQ&在摸鱼的天本)](https://modrinth.com/project/Lk0fz74T)  
+    [汉化材质包(HuaHua_QuQ}](https://modrinth.com/project/rkWYmOTW)
 
 - ### [caramelChat 输入法冲突解决](https://www.mcmod.cn/class/17135.html)
 
@@ -53,8 +50,7 @@
 
 - ### [Particle Rain 粒子雨](https://www.mcmod.cn/class/4897.html)
 
-    让原版的雨更好看(可能会影响性能)
-
+    让原版的雨更好看(会影响性能)
     ![预览图](https://img.fastmirror.net/s/2025/08/27/68aefdaf7abd1.png)
 
 - ### [Paginated Advancements 分页进度](https://www.mcmod.cn/class/8062.html)
@@ -84,17 +80,15 @@
 
 ## 5. 进入服务器
 
-1. 在群公告获取最新的服务器IP
+1. 在群公告查看最新的服务器IP
 2. 打开"多人游戏"页面
 3. 点击"添加服务器"
 4. 将您获取到的IP填入"服务器地址"
 5. 点击"完成"
-6. 🎮享受游戏吧🎮
 
 ??? question "IPv4与IPv6"
-    [不知道的点这里](utilities.md#百度百科)  
-    检查您的设备是否同时支持 IPv4 和 IPv6, 以及是否正确配置了 IPv6 地址  
-    超级简单的办法: 访问[https://ipw.cn/](https://ipw.cn/)  
+    [这是什么?能吃吗?](../../utilities)  
+    先检查您的设备是否同时支持 IPv4 和 IPv6, 以及是否正确配置了 IPv6 地址: 访问[https://ipw.cn/](https://ipw.cn/)  
 
     ### 选择线路
 
