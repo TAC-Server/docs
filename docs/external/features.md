@@ -81,46 +81,46 @@
 
 ### 最大等级提升
 
-| Enchantment |  New Max Level | Detail |
+| 附魔名称 | 新的最大等级 | 详细信息 |
 | --- | --- | --- |
-| **Aqua Affinity** | 5 | Allows you to breathe longer underwater |
-| **Bane of Arthropods** | 10 | Increases damage against arthropods |
-| **Blast Protection** | 7 | Reduces damage from explosions |
-| **Breach** | 5 | Reduce armor effectiveness |
-| **Channeling** | 5 | Summons lightning at the target |
-| **Density** | 5 | Increases the smash attack per block with mace |
-| **Depth Strider** | 3 | Increases underwater movement speed |
-| **Efficiency** | 10 | Increases mining speed |
-| **Feather Falling** | 10 | Reduces fall damage |
-| **Fire Aspect** | 4 | The time of ignite is increased |
-| **Fire Protection** | 7 | Reduces damage from fire |
-| **Flame** | 5 | The time of ignite is increased |
-| **Fortune** | 5 | Increases block drops |
-| **Frost Walker** | 8 | Freezes water |
-| **Impaling** | 10 | Increases damage against sea creatures |
-| **Knockback** | 10 | Increases knockback |
-| **Looting** | 5 | Increases mob drops |
-| **Loyalty** | 8 | Increases trident return speed |
-| **Luck of the Sea** | 5 | Increases fishing luck |
-| **Lure** | 5 | Increases fishing speed |
-| **Mending** | 5 | The repairs is increased for each level |
-| **Multishot** | 3 | Shoot more arrows at once |
-| **Piercing** | 10 | Arrows can pierce through multiple entities |
-| **Power** | 7 | Increases bow damage |
-| **Projectile Protection** | 7 | Reduces damage from projectiles |
-| **Protection** | 5 | Reduces all damage |
-| **Punch** | 10 | Increases arrow knockback |
-| **Quick Charge** | 5 | Reduces crossbow reload time |
-| **Respiration** | 8 | Increases the number oxygen bubbles |
-| **Riptide** | 8 | Launches the player when thrown |
-| **Sharpness** | 7 | Increases melee damage |
-| **Smite** | 10 | Increases damage against undead |
-| **Soul Speed** | 7 | Increases movement speed on soul sand |
-| **Sweeping Edge** | 10 | Increases sweep attack damage |
-| **Swift Sneak** | 7 | Increases sneaking speed |
-| **Thorns** | 4 | Damages attackers |
-| **Unbreaking** | 10 | Increases item durability |
-| **Wind Burst** | 5 | Increases the wind charge knockback |
+| 水下速掘 | 5 | 让你在水下呼吸更久 |
+| 节肢杀手 | 10 | 提高对节肢生物的伤害 |
+| 爆炸保护 | 7 | 减少爆炸伤害 |
+| 破甲 | 5 | 降低护甲的有效性 |
+| 引雷 | 5 | 向目标召唤闪电 |
+| 致密 | 5 | 提高下落时使用重锤造成的伤害|
+| 深海探索者 | 3 | 提高水下移动速度 |
+| 效率 | 10 | 提高挖掘速度 |
+| 摔落保护 | 10 | 减少跌落伤害 |
+| 火焰附加 | 4 | 延长点燃时间 |
+| 火焰保护 | 7 | 减少火焰伤害 |
+| 火焰 | 5 | 延长箭矢点燃时间 |
+| 时运 | 5 | 提高方块掉落物数量 |
+| 冰霜行者 | 8 | 冻结水面 |
+| 穿刺 | 10 | 提高对海洋生物的伤害 |
+| 击退 | 10 | 增强击退效果 |
+| 抢夺 | 5 | 提高怪物掉落物数量 |
+| 忠诚 | 8 | 提高三叉戟回返速度 |
+| 海之眷顾 | 5 | 提高垂钓的稀有度 |
+| 饵钓 | 5 | 提高垂钓速度 |
+| 修补 | 5 | 每级提高物品的经验修复效果 |
+| 多重射击 | 3 | 一次射出更多箭矢 |
+| 穿透 | 10 | 箭矢可穿透多个实体 |
+| 力量 | 7 | 提高弓的伤害 |
+| 弹射物保护 | 7 | 减少投射物伤害 |
+| 保护 | 5 | 减少所有来源的伤害 |
+| 冲击 | 10 | 增强箭矢的击退效果 |
+| 快速装填 | 5 | 减少弩的装填时间 |
+| 水下呼吸 | 8 | 增加氧气泡数量 |
+| 激流 | 8 | 在投掷时推进玩家 |
+| 锋利 | 7 | 提高近战伤害 |
+| 亡灵杀手 | 10 | 提高对亡灵生物的伤害 |
+| 灵魂疾行 | 7 | 在灵魂沙/灵魂土上移动更快 |
+| 横扫之刃 | 10 | 提高横扫攻击伤害 |
+| 迅捷潜行 | 7 | 提高潜行移动速度 |
+| 荆棘 | 4 | 反伤攻击者 |
+| 耐久 | 10 | 提高物品耐久度 |
+| 风爆 | 5 | 提高风爆的击退效果 |
 
 /// caption
 提升后的最大等级（未翻译）
