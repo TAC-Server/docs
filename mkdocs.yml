@@ -22,7 +22,10 @@ extra:
       link: mailto:3134641406@qq.com
       name: 给Redapple_one发邮件
 plugins:
-  - search
+  - search:
+      lang:
+        - zh
+        - en
   - meta
   - heti
   - awesome-nav
@@ -35,6 +38,8 @@ markdown_extensions:
   - admonition
   - attr_list
   - md_in_html
+  - toc:
+      permalink: true
   - pymdownx.blocks.caption
   - pymdownx.snippets
   - pymdownx.details
@@ -44,6 +49,7 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - pymdownx.snippets:
+      check_paths: true
       auto_append:
         - includes/abbreviations.md
   - pymdownx.emoji:
@@ -81,6 +87,7 @@ theme:
     - content.action.edit
     - content.tabs.link
     - content.tooltips
+    - toc.integrate
     - navigation.footer
     - navigation.instant
     - navigation.instant.prefetch
@@ -90,8 +97,10 @@ theme:
     - navigation.sections
     - navigation.indexes
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.top
     - search.suggest
+    - search.share
     - search.highlight
     - search.share
     - toc.follow
