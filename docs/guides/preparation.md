@@ -8,8 +8,11 @@
 
 - :material-download:{ .md .middle } __下载整合包__
 
-    推荐[__XPlus 基础整合__](https://www.mcmod.cn/modpack/467.html)  
-    或者[__Arcomua Modpack__](https://www.mcmod.cn/modpack/606.html)  
+    下方三个任选其一, 排名不分先后
+
+    - [__XPlus 基础整合__](https://www.mcmod.cn/modpack/467.html)  
+    - [__Arcomua Modpack__](https://www.mcmod.cn/modpack/606.html)  
+    - [__Fabulously Optimized__](https://www.mcmod.cn/modpack/248.html)
 
 > :material-wrench:{ .md .middle } __自配整合包__
 >
@@ -33,6 +36,10 @@
 - ### [ResourcePackCached 服务器资源包缓存](https://www.mcmod.cn/class/20117.html)
 
     缓存服务器资源包以便快速加载, {==__墙裂建议安装__==}
+
+- ### [Tick Sync](https://modrinth.com/project/in9EmnNp)
+
+    优化服务器数据包和客户端刻之间的延迟, 在冰船、喷射合成以及矿车方面优化显著
 
 - ### [Bobby 服务器区块缓存](https://www.mcmod.cn/class/5291.html)
 
