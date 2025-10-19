@@ -19,6 +19,12 @@
 
 !!! command "ac"
 
+## 服务器资源包没加载
+
+### CustomSkinLoader
+
+卸载它
+
 ## 没有找到?/问题依然存在
 
 百度/Bing/Google一下?
