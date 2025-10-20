@@ -17,17 +17,15 @@ comments: false
 === "外服"
     对外开放加入 群号: ``807442455``
 
-    大厅为 **[Leaf](https://www.leafmc.one/) 1.21.8 构建#124**
+    大厅为 **[Leaf](https://www.leafmc.one/) 1.21.8 构建#135**
 
     容灾大厅为 **[NanoLimbo](https://github.com/BoomEaro/NanoLimbo) (Fork of BoomEaro) 1.7~1.21.8 版本1.9.7**
 
-    小游戏为 **[Leaf](https://www.leafmc.one/) 1.21.8 构建#124**
+    小游戏为 **[Leaf](https://www.leafmc.one/) 1.21.8 构建#135**
 
-    无尽跑酷为 **[Leaf](https://www.leafmc.one/) 1.21.4 构建#519**
+    无尽跑酷为 **[Leaf](https://www.leafmc.one/) 1.21.4 构建#524**
 
-    生存服为 **[Leaf](https://www.leafmc.one/) 1.21.8 构建#124**
-
-    支持生电(无假人)
+    生存服为 **[Leaf](https://www.leafmc.one/) 1.21.8 构建#135**
 
 | 项目 | 信息                                                                                         |
 | :--- | :------------------------------------------------------------------------------------------- |
