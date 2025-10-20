@@ -61,6 +61,7 @@
 
 以下模组被服务器支持，可以获得较好的使用体验：
 
+* Jade
 * Appleskin
 * AsteorBar
 * Distant Horzion
