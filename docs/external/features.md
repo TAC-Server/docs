@@ -35,9 +35,11 @@
 
 !!! command "pil"
 
-### 点歌机
+### 点歌插件
 
 !!! command "music"
+
+需要客户端安装[AllMusic](https://github.com/Coloryr/AllMusic_Client)模组才可以使用
 
 ### 出生点保护
 
