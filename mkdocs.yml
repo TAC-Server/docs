@@ -87,7 +87,6 @@ theme:
     - content.action.edit
     - content.tabs.link
     - content.tooltips
-    - toc.integrate
     - navigation.footer
     - navigation.instant
     - navigation.instant.prefetch

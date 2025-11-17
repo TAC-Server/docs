@@ -21,7 +21,7 @@
 
 本节说明附魔的获取渠道以及补充信息。
 
-图例：各指示格的含义。[](#legend-explanations-of-each-box)
+图例：各指示格的含义。
 
 * * *
 
@@ -44,7 +44,7 @@ _**价格翻倍：**_ 在村民交易中，售价会翻倍。
 * * *
 
 ### 可附魔物品
-主要 / 支持项说明（技术向）[](#explanation-primary-supported-technical)
+主要 / 支持项说明（技术向）
 
 **主要物品（附魔台）：** 可在[附魔台](https://minecraft.wiki/w/Enchanting_table)上随机出现该附魔的物品。
 
