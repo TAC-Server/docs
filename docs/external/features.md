@@ -29,7 +29,7 @@
 
 ### 领地系统
 
-[Dominion Docs（自建）](https://dominion.tacs.top/notes/doc/player/){ .md-button }
+[Dominion Docs（自建）](https://dominion.docs.tacs.top/notes/doc/player/){ .md-button }
 
 ### 幻翼生成控制
 
