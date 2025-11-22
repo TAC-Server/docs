@@ -11,7 +11,7 @@ hide:
 - [MCJPG Nav](https://mcjpg.org/nav/)
 - [中文 Minecraft Wiki](https://zh.minecraft.wiki/)
 - [Stardust Labs Wiki](https://stardustlabs.miraheze.org/wiki/Main_page)
-- [Dominion Docs（自建）](https://dominion.docs.tacs.top/notes/doc/player/)
+- [Dominion Docs（自建）](https://dominion.tacs.top/notes/doc/player/)
 - [NeoEnchant+ Wiki](https://hardels-organization.gitbook.io/voxel)
 
 ## 网络相关

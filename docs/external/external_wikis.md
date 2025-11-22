@@ -18,7 +18,7 @@
 
     ---
 
-    [Dominion Docs（自建）](https://dominion.docs.tacs.top/notes/doc/player/){ .md-button }
+    [Dominion Docs（自建）](https://dominion.tacs.top/notes/doc/player/){ .md-button }
 
 * __遥远的地平线__
 
